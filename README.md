@@ -10,3 +10,10 @@
 3. `perfect:xxxxxx` 完善已有灵感
 4. `delete:xxxxxx` 删除已有灵感
 
+## 赞助我
+
+如果有幸，能给你带来启发，还望你能给我一些动力，哈哈哈哈！！！！
+
+<img src="http://oss.yuexiaoliang.com/li/blog/images/2021/08/28/20210828235848.png!default" style="zoom:25%;" />
+
+<img src="http://oss.yuexiaoliang.com/li/blog/images/2021/08/28/20210828235934.jpg!default" style="zoom:25%;" />
